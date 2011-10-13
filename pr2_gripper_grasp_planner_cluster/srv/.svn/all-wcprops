@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/wg-ros-pkg/!svn/ver/53155/stacks/pr2_object_manipulation/trunk/manipulation/pr2_gripper_grasp_planner_cluster/srv
+END
+SetPointClusterGraspParams.srv
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/wg-ros-pkg/!svn/ver/53155/stacks/pr2_object_manipulation/trunk/manipulation/pr2_gripper_grasp_planner_cluster/srv/SetPointClusterGraspParams.srv
+END

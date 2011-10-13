@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 608
+/branches/arm_planning_branch/stacks/ros_database/household_objects_database:27259-27893
+/pkg/branches/gazebo-branch-merge/stacks/ros_database/household_objects_database:15683-15684,15739-15794,15797-15820,15822-15839,15852-15870,15983-16008,16010-16016,16129-16141,16145-16169,16245-16262,16274-16334
+/stacks/object_manipulation/branches/arm_navigation_0_3/household_objects_database:44160-45625,45627-47937
+/stacks/object_manipulation/branches/object_manipulation-0.2.0-branch/household_objects_database:45192-45193
+/tags/controller_manager_rename/stacks/ros_database/household_objects_database:25336-25352
+END

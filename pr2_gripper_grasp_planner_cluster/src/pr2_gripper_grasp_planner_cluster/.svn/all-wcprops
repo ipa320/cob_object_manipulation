@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/wg-ros-pkg/!svn/ver/53161/stacks/pr2_object_manipulation/trunk/manipulation/pr2_gripper_grasp_planner_cluster/src/pr2_gripper_grasp_planner_cluster
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/wg-ros-pkg/!svn/ver/51975/stacks/pr2_object_manipulation/trunk/manipulation/pr2_gripper_grasp_planner_cluster/src/pr2_gripper_grasp_planner_cluster/__init__.py
+END
+point_cluster_grasp_planner.py
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/wg-ros-pkg/!svn/ver/53161/stacks/pr2_object_manipulation/trunk/manipulation/pr2_gripper_grasp_planner_cluster/src/pr2_gripper_grasp_planner_cluster/point_cluster_grasp_planner.py
+END

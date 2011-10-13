@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/launch
+END
+objects_database_remote_client.launch
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/launch/objects_database_remote_client.launch
+END
+objects_database_local_server.launch
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/launch/objects_database_local_server.launch
+END
+objects_database_remote_server.launch
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/launch/objects_database_remote_server.launch
+END

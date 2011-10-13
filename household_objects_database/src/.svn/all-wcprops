@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/src
+END
+database_helper_classes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/src/database_helper_classes.cpp
+END
+mesh_loader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/src/mesh_loader.cpp
+END
+insert_model.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/src/insert_model.cpp
+END
+ply.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/src/ply.c
+END
+objects_database.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/src/objects_database.cpp
+END

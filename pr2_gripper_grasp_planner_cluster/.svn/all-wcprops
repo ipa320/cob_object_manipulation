@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/wg-ros-pkg/!svn/ver/53163/stacks/pr2_object_manipulation/trunk/manipulation/pr2_gripper_grasp_planner_cluster
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/wg-ros-pkg/!svn/ver/52934/stacks/pr2_object_manipulation/trunk/manipulation/pr2_gripper_grasp_planner_cluster/manifest.xml
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/wg-ros-pkg/!svn/ver/51975/stacks/pr2_object_manipulation/trunk/manipulation/pr2_gripper_grasp_planner_cluster/mainpage.dox
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/wg-ros-pkg/!svn/ver/52934/stacks/pr2_object_manipulation/trunk/manipulation/pr2_gripper_grasp_planner_cluster/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/wg-ros-pkg/!svn/ver/51975/stacks/pr2_object_manipulation/trunk/manipulation/pr2_gripper_grasp_planner_cluster/Makefile
+END

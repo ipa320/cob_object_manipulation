@@ -1,0 +1,17 @@
+<launch>
+
+  <!-- simply registers the relevant services to a remote ROS master running at Willow Garage -->
+
+  <node name="remap_db_service_1" pkg="household_objects_database" type="register.py"
+    args="/objects_database_node/get_model_list rosrpc://grasp.willowgarage.com:15432" />
+
+  <node name="remap_db_service_2" pkg="household_objects_database" type="register.py"
+    args="/objects_database_node/get_model_mesh rosrpc://grasp.willowgarage.com:15432" />
+
+  <node name="remap_db_service_3" pkg="household_objects_database" type="register.py"
+    args="/objects_database_node/get_model_description rosrpc://grasp.willowgarage.com:15432" />
+
+  <node name="remap_db_service_4" pkg="household_objects_database" type="register.py"
+    args="/objects_database_node/database_grasp_planning rosrpc://grasp.willowgarage.com:15432" />
+	
+</launch>

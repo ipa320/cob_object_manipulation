@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/manifest.xml
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/mainpage.dox
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/Makefile
+END
