@@ -1,0 +1,24 @@
+<stack>
+  <description brief="cob_manipulation_sandbox">cob_manipulation_sandbox</description>
+  <author>Maintained by Alexander Bubeck</author>
+  <license>BSD,except for source files individually marked otherwise</license>  
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/cob_manipulation_sandbox</url>
+  <depend stack="arm_navigation" /> <!-- kinematics_base, planning_environment, planning_models, kinematics_msgs, arm_navigation_msgs -->
+  <depend stack="arm_navigation_experimental" /> <!-- distance_field -->
+  <depend stack="common" /> <!-- actionlib -->
+  <depend stack="common_msgs" /> <!-- sensor_msgs, trajectory_msgs, geometry_msgs, visualization_msgs -->
+  <depend stack="common_rosdeps" /> <!-- common_rosdeps -->
+  <depend stack="geometry" /> <!-- tf, tf_conversions, eigen_conversions -->
+  <depend stack="object_manipulation" /> <!-- household_objects_database_msgs, object_manipulation_msgs -->
+  <depend stack="orocos_kinematics_dynamics" /> <!-- kdl -->
+  <depend stack="perception_pcl" /> <!-- pcl, pcl_ros -->
+  <depend stack="pluginlib" /> <!-- pluginlib -->
+  <depend stack="pr2_controllers" /> <!-- pr2_controllers_msgs -->
+  <depend stack="pr2_mechanism" /> <!-- pr2_mechanism_msgs -->
+  <depend stack="robot_model" /> <!-- kdl_parser -->
+  <depend stack="ros" /> <!-- roslib -->
+  <depend stack="ros_comm" /> <!-- rosgraph, rosservice, rospy, roscpp -->
+  <depend stack="sql_database" /> <!-- database_interface -->
+
+</stack>
