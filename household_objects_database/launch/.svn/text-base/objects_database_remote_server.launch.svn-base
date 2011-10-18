@@ -1,0 +1,12 @@
+<launch>
+
+  <!-- hand descriptions -->
+  <rosparam command="load" file="$(find pr2_object_manipulation_launch)/config/pr2_hand_descriptions.yaml"/>
+
+  <!-- database connection parameters -->
+  <rosparam command="load" file="$(find household_objects_database)/config/wgs36.yaml"/>
+  <!-- start the database wrapper node and force it to bind to a specific port-->
+  <node pkg="household_objects_database" name="objects_database_node" type="objects_database_node" 
+  	respawn="true" output="screen" args="__tcpros_server_port:=15432"/>
+
+</launch>

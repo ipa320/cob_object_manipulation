@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/include/household_objects_database
+END
+database_grasp_pair.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/include/household_objects_database/database_grasp_pair.h
+END
+objects_database.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/include/household_objects_database/objects_database.h
+END
+database_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/include/household_objects_database/database_view.h
+END
+database_file_path.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/include/household_objects_database/database_file_path.h
+END
+database_scaled_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/include/household_objects_database/database_scaled_model.h
+END
+database_grasp.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/include/household_objects_database/database_grasp.h
+END
+database_helper_classes.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/include/household_objects_database/database_helper_classes.h
+END
+database_mesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/include/household_objects_database/database_mesh.h
+END
+database_perturbation.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/include/household_objects_database/database_perturbation.h
+END
+database_vfh_orientation.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/include/household_objects_database/database_vfh_orientation.h
+END
+database_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/include/household_objects_database/database_task.h
+END
+database_vfh.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/include/household_objects_database/database_vfh.h
+END
+database_original_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/include/household_objects_database/database_original_model.h
+END
+database_scan.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/wg-ros-pkg/!svn/ver/52736/stacks/object_manipulation/tags/electric/household_objects_database/include/household_objects_database/database_scan.h
+END

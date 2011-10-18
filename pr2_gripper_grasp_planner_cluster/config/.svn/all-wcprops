@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/wg-ros-pkg/!svn/ver/53155/stacks/pr2_object_manipulation/trunk/manipulation/pr2_gripper_grasp_planner_cluster/config
+END
+schunk_hand_virtual_gripper_model.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/wg-ros-pkg/!svn/ver/53155/stacks/pr2_object_manipulation/trunk/manipulation/pr2_gripper_grasp_planner_cluster/config/schunk_hand_virtual_gripper_model.yaml
+END
+pr2_gripper_model.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/wg-ros-pkg/!svn/ver/53155/stacks/pr2_object_manipulation/trunk/manipulation/pr2_gripper_grasp_planner_cluster/config/pr2_gripper_model.yaml
+END

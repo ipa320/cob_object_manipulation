@@ -1,0 +1,11 @@
+K 13
+svn:mergeinfo
+V 968
+/branches/arm_planning_branch/stacks/pr2_object_manipulation/manipulation/pr2_gripper_grasp_planner_cluster:27259-27893
+/pkg/branches/gazebo-branch-merge/stacks/pr2_object_manipulation/manipulation/pr2_gripper_grasp_planner_cluster:15683-15684,15739-15794,15797-15820,15822-15839,15852-15870,15983-16008,16010-16016,16129-16141,16145-16169,16245-16262,16274-16334
+/stacks/pr2_object_manipulation/branches/arm_navigation_0_3/manipulation/pr2_gripper_grasp_planner_cluster:44161-45624,45626-47940
+/stacks/pr2_object_manipulation/branches/hri12/manipulation/pr2_gripper_grasp_planner_cluster:52662-52933
+/stacks/pr2_object_manipulation/branches/pr2_object_manipulation-0.2.0-branch/manipulation/pr2_gripper_grasp_planner_cluster:42582-42662,43272-43275
+/stacks/pr2_object_manipulation/trunk/manipulation/pr2_gripper_grasp_planner_cluster:41102-41253
+/tags/controller_manager_rename/stacks/pr2_object_manipulation/manipulation/pr2_gripper_grasp_planner_cluster:25336-25352
+END

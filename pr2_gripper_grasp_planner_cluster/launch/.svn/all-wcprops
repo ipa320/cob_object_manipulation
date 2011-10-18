@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/wg-ros-pkg/!svn/ver/53149/stacks/pr2_object_manipulation/trunk/manipulation/pr2_gripper_grasp_planner_cluster/launch
+END
+schunk_hand_grasp_planner_cluster_server.launch
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/wg-ros-pkg/!svn/ver/53149/stacks/pr2_object_manipulation/trunk/manipulation/pr2_gripper_grasp_planner_cluster/launch/schunk_hand_grasp_planner_cluster_server.launch
+END
+pr2_gripper_grasp_planner_cluster_server.launch
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/wg-ros-pkg/!svn/ver/53149/stacks/pr2_object_manipulation/trunk/manipulation/pr2_gripper_grasp_planner_cluster/launch/pr2_gripper_grasp_planner_cluster_server.launch
+END
