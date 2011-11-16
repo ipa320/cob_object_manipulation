@@ -1,5 +1,9 @@
 <stack>
-  <description brief="cob_object_manipulation">cob_object_manipulation</description>
+  <description brief="Care-O-bot stack with object manipulation packages">
+
+     The cob_object_manipulation stack includes packages that provide object manipulation capabilities for Care-O-bot.
+
+  </description>
   <author>Maintained by Alexander Bubeck</author>
   <license>BSD,LGPL,except for source files individually marked otherwise</license>  
   <review status="unreviewed" notes=""/>
