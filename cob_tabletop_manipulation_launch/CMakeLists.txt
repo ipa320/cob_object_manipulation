@@ -31,4 +31,4 @@ set(LIBRARY_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/lib)
 
 
 # rostest
-rosbuild_add_roslaunch_check(ros/launch/cob_tabletop_manipulation.launch ROBOT=cob3-3)
+rosbuild_add_roslaunch_check(ros/launch)

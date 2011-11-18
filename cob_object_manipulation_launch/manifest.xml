@@ -8,5 +8,9 @@
   <license>LGPL</license>
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/cob_object_manipulation_launch</url>
+  
+  <depend package="object_manipulator"/>
+  <depend package="pr2_gripper_grasp_planner_cluster"/>
+  <depend package="cob_gripper_grasp_controller_sdh"/>
 
 </package>

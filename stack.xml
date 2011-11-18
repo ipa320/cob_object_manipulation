@@ -8,21 +8,18 @@
   <license>BSD,LGPL,except for source files individually marked otherwise</license>  
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/cob_object_manipulation</url>
-  <depend stack="arm_navigation" /> <!-- kinematics_base, planning_environment, planning_models, kinematics_msgs, arm_navigation_msgs -->
+  <depend stack="arm_navigation" /> <!-- planning_environment, kinematics_msgs, arm_navigation_msgs -->
   <depend stack="arm_navigation_experimental" /> <!-- distance_field -->
-  <depend stack="cob_manipulation" /> <!-- cob3_3_arm_navigation -->
+  <depend stack="cob_manipulation" /> <!-- cob3_3_arm_navigation, cob_gripper_grasp_controller_sdh -->
   <depend stack="common" /> <!-- actionlib -->
   <depend stack="common_msgs" /> <!-- geometry_msgs, trajectory_msgs, sensor_msgs, visualization_msgs -->
   <depend stack="common_rosdeps" /> <!-- common_rosdeps -->
-  <depend stack="geometry" /> <!-- tf, tf_conversions, eigen_conversions -->
+  <depend stack="geometry" /> <!-- tf, eigen_conversions -->
   <depend stack="object_manipulation" /> <!-- household_objects_database_msgs, object_manipulation_msgs -->
-  <depend stack="orocos_kinematics_dynamics" /> <!-- kdl -->
   <depend stack="perception_pcl" /> <!-- pcl, pcl_ros -->
-  <depend stack="pluginlib" /> <!-- pluginlib -->
   <depend stack="pr2_controllers" /> <!-- pr2_controllers_msgs -->
   <depend stack="pr2_mechanism" /> <!-- pr2_mechanism_msgs -->
   <depend stack="pr2_object_manipulation" /> <!-- tabletop_collision_map_processing -->
-  <depend stack="robot_model" /> <!-- kdl_parser -->
   <depend stack="ros" /> <!-- roslib -->
   <depend stack="ros_comm" /> <!-- rosgraph, rosservice, rospy, roscpp -->
   <depend stack="sql_database" /> <!-- database_interface -->
