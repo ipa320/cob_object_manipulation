@@ -10,7 +10,7 @@
   <url>http://ros.org/wiki/cob_object_manipulation</url>
   <depend stack="arm_navigation" /> <!-- planning_environment, kinematics_msgs, arm_navigation_msgs -->
   <depend stack="arm_navigation_experimental" /> <!-- distance_field -->
-  <depend stack="cob_manipulation" /> <!-- cob3_3_arm_navigation, cob_gripper_grasp_controller_sdh -->
+  <depend stack="cob_manipulation" /> <!-- cob_arm_navigation, cob_gripper_grasp_controller_sdh -->
   <depend stack="common" /> <!-- actionlib -->
   <depend stack="common_msgs" /> <!-- geometry_msgs, trajectory_msgs, sensor_msgs, visualization_msgs -->
   <depend stack="common_rosdeps" /> <!-- common_rosdeps -->

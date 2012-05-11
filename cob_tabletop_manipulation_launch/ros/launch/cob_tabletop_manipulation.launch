@@ -18,9 +18,9 @@
 	<param name="/household_objects_database/database_name" value="household_objects-0.5"/>
 	<node pkg="household_objects_database" name="objects_database_node" type="objects_database_node" respawn="true" output="screen"/>
 
-	<!-- manipulation prerequisites all includede in the cob3_3_arm_navigation pkg -->
+	<!-- manipulation prerequisites all includede in the cob_arm_navigation pkg -->
 	 <node name="interpolated_ik_node_cob3_3" pkg="interpolated_ik_motion_planner" type="interpolated_ik_motion_planner.py" args="c" respawn="false"/>
-	<include file="$(find cob3_3_arm_navigation)/launch/cob3_3_arm_navigation.launch"/>
+	<include file="$(find cob_arm_navigation)/launch/cob_arm_navigation.launch"/>
 
 	<!-- manipulation -->
 	<include file="$(find cob_object_manipulation_launch)/launch/cob_object_manipulation.launch"/>
